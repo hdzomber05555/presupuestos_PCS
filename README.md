@@ -1,4 +1,5 @@
-<img src="assets/20250401_203509_Guille.png" height="300" width="700" />
+![image](https://github.com/user-attachments/assets/a736064e-55e0-4836-b116-408eca7f0b31)
+
 
 
 
